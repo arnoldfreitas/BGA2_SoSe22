@@ -1,0 +1,3 @@
+batch_size_grid = [16, 64, 256]
+best_validation_loss = 0.008232472464442253
+*** Optimal Batch Size: 64 ***

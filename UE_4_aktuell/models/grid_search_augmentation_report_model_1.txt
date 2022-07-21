@@ -1,0 +1,14 @@
+--- PARAMETER SPACE ---
+rotation_range_grid = [5, 10, 20]
+zoom_range_grid = [0.05, 0.1, 0.2]
+width_shift_range_grid = [0.05, 0.1, 0.2]
+height_shift_range_grid = [0.05, 0.1, 0.2]
+shear_range_grid = [0.05, 0.1, 0.2]
+--- OPTIMAL PARAMETER ---
+rotation_range = 10
+zoom_range = 0.1
+width_shift_range = 0.1
+height_shift_range = 0.1
+shear_range = 0.1
+
+best_validation_loss = 0.0019395773997530341
